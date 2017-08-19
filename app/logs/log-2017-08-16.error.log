@@ -1,0 +1,4 @@
+ERROR - 2017-08-16 10:25:49 --> $config['composer_autoload'] is set to TRUE but /Code/php/workspace/zd_app/ExamPlat/app/vendor/autoload.php was not found.
+ERROR - 2017-08-16 10:25:49 --> 404 Page Not Found: Corp/login
+ERROR - 2017-08-16 10:25:49 --> $config['composer_autoload'] is set to TRUE but /Code/php/workspace/zd_app/ExamPlat/app/vendor/autoload.php was not found.
+ERROR - 2017-08-16 10:25:49 --> 404 Page Not Found: Faviconico/index
